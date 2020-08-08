@@ -1,3 +1,3 @@
 # Postapp
 
-Projeto desenvolvido no curso de NodeJS afim de aprender express.js
+Projeto feito acompanhando o curso de Express.js
